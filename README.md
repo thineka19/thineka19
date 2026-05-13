@@ -1,19 +1,14 @@
-<div style="text-align:center;">
-  <h1 style="
-    color:#FFFFFF;
-    display:inline-block;
-    padding: 12px 28px;
-    border-radius: 15px;
-    border: 2px solid #00BFFF;
-    box-shadow: 0 0 8px #00BFFF, 0 0 15px #0099ff;
-  ">
-    Hi 👋, I'm Thineka
-  </h1>
-</div>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF00FF,00F7FF,FFD700&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Full+Stack+Developer+in+Progress;Creative+Thinker;Always+Improving+Skills" />
-</p>
+<div align="center">
 
+<h1 style="color:#FFFFFF; margin:0;">
+  Hi 👋 I'm Thineka
+</h1>
+
+<h3 style="color:#00BFFF; margin-top:5px; font-weight:normal;">
+  Computer Science Student | Full Stack Developer in Progress
+</h3>
+
+</div>
 
 ## 💫 About Me
 🚀 Passionate Computer Science Student at University of Colombo School of Computing  
