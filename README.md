@@ -8,7 +8,13 @@
   Computer Science Student | Full Stack Developer in Progress
 </h3>
 
+<p style="color:#00BFFF;">
+  💻 Code • Learn • Build • Improve
+</p>
+
 </div>
+
+---
 
 ## 💫 About Me
 🚀 Passionate Computer Science Student at University of Colombo School of Computing  
@@ -24,24 +30,27 @@
 - 💡 Interested in building impactful real-world software solutions  
 - 🤝 Strong believer in teamwork, collaboration & learning together  
 - 🧠 Continuously improving coding, design & problem-solving skills  
-- 🚀 Aim: Become a skilled Full Stack Developer
+- 🚀 Aim: Become a skilled Full Stack Developer  
 
 ---
 
-## ⚡ Skills
+## ⚡ Tools & Technologies
 
-### 🌐 Frontend
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-00BFFF?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS3-1E90FF?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/JavaScript-00BFFF?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/VS%20Code-00BFFF?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-1E90FF?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chrome%20DevTools-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </p>
 
-### 🧠 Programming
+## 💻 Programming Languages
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0099FF?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/C-1E90FF?style=for-the-badge&logo=c"/>
-  <img src="https://img.shields.io/badge/C++-00BFFF?style=for-the-badge&logo=c%2B%2B"/>
+  <img src="https://img.shields.io/badge/HTML5-00BFFF?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1E90FF?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-00BFFF?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-0099FF?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00BFFF?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
 
 ---
